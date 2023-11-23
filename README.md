@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/marwin89/marwin89/blob/main/marwin-github-banner.png">
-[![Paypal - Donate](https://img.shields.io/badge/Paypal-Donate-113399?logo=paypal&logoColor=%23ffffff)](https://www.paypal.com/paypalme/marwin89)https://www.paypal.com/paypalme/marwin89)
+<a href="https://www.paypal.com/paypalme/marwin89"><img src="https://img.shields.io/badge/Paypal-Donate-113399?logo=paypal&logoColor=%23ffffff" alt="Paypal - Donate"></a>   <a href="https://donorbox.org/marwin"><img src="https://img.shields.io/static/v1?label=Donorbox&message=Donate&color=99c3ed" alt="Donorbox - Donate"></a>
