@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/marwin89/marwin89/blob/main/marwin-github-banner.png">
+[![Paypal - Donate](https://img.shields.io/badge/Paypal-Donate-113399?logo=paypal&logoColor=%23ffffff)](https://www.paypal.com/paypalme/marwin89)https://www.paypal.com/paypalme/marwin89)
