@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/marwin89/marwin89/blob/main/marwin-github-banner2.png">
 <a href="https://www.paypal.com/paypalme/marwin89"><img src="https://img.shields.io/badge/Paypal-Donate-113399?logo=paypal&logoColor=%23ffffff" alt="Paypal - Donate"></a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=marwin89&label=Profile%20Views&color=1&icon=4&pretty=true" />
